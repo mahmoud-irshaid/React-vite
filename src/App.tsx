@@ -1,6 +1,6 @@
 import Heading from "./components/Heading"
 import Section from "./components/Section"
-import Counter from "./components/Counter"
+import Counter from "./components/CounteruseReducer"
 import { useState } from "react"
 import List from "./components/List"
 
